@@ -6,12 +6,12 @@ O objetivo do projeto é permitir que o usuário informe seu saldo inicial e
 registre entradas e saídas para acompanhar suas movimentações financeiras.
 
 <p align="center">
-  <img src="assets/Tela01.png" width="180"/>
-  <img src="assets/Tela02.png" width="180"/>
-  <img src="assets/Tela03.png" width="180"/>
-  <img src="assets/Tela04.png" width="180"/>
-  <img src="assets/Tela05.png" width="180"/>
-  <img src="assets/Tela06.png" width="180"/>
+  <img src="assets/Tela 01.png" width="180"/>
+  <img src="assets/Tela 02.png" width="180"/>
+  <img src="assets/Tela 03.png" width="180"/>
+  <img src="assets/Tela 04.png" width="180"/>
+  <img src="assets/Tela 05.png" width="180"/>
+  <img src="assets/Tela 06.png" width="180"/>
 </p>
 
 ## Funcionalidades
